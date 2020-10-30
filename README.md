@@ -1,5 +1,6 @@
 # Chinese-COVID19-dashboard
-我的暑期实习项目
-我们的产品是一个基于Web的应用程序，可跟踪中国最近爆发的冠状病毒（COVID-19）的传播情况。 仪表板由四个主要模块组成，分别是卡模块，地图模块，图表模块和表格模块。 卡模块将显示有关中国有多少例确诊，死亡和康复病例的摘要信息。 另外，还有一个表，其中包含每个州有关冠状病毒的每日更新信息。 该仪表板的主要功能是一个交互式地图，可视化显示COCID-19在中国的分布。 除此之外，图表模块中还有一些数字，例如关于案件时间表的折线图和中国各州感染率的饼图。
+My summer internship project 
+
+Our product is a web-based application that tracks the spread of the recent coronavirus outbreak (COVID-19) in China. The dashboard is composed of four main modules, namely card module, map module, chart module and table module. The card module will display summary information about how many confirmed, dead and recovered cases in China. In addition, there is a table that contains daily updated information about the coronavirus in each state. The main function of the dashboard is an interactive map that visually displays the distribution of COCID-19 in China. In addition, there are some figures in the chart module, such as a line chart about the timeline of cases and a pie chart of infection rates in various states in China.
 
 ![abc](https://github.com/MusicDevelopmentSqu/myproject/blob/master/download.png?raw=true)
